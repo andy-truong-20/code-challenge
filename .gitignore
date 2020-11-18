@@ -1,0 +1,6 @@
+/src/packages
+/src/CodeChallenge/bin
+/src/CodeChallenge/obj
+/src/CodeChallenge.Test/bin
+/src/CodeChallenge.Test/obj
+/src/.vs
